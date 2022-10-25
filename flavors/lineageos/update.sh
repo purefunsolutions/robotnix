@@ -18,7 +18,8 @@ args=(
 export TMPDIR=/tmp
 
 ./update_device_metadata.py
-../../scripts/mk_repo_file.py --out "${branch}/repo.json" "${args[@]}"
-./update_device_dirs.py --branch "$branch"
+../../scripts/mk_repo_file.py --jobs 1 --out "${branch}/repo.json" "${args[@]}"
+./update_device_dirs.py --branch "$branch" oneplus_instantnoodlep
+./update_device_dirs.py --branch "$branch" oneplus_dumpling
 
 echo Updated branch "$branch". End epoch: "$(date +%s)"
