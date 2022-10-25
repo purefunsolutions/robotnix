@@ -9,7 +9,7 @@ in
 mkIf (config.androidVersion == 12) {
   source.dirs."build/make".patches = [
     ./build_make/0001-Readonly-source-fix.patch
-    ./build_make/0002-Add-vendor-bootconfig.img-to-target-files-package.patch
+    #./build_make/0002-Add-vendor-bootconfig.img-to-target-files-package.patch # This patch has been already merged
     #./build_make/0003-Add-option-to-include-prebuilt-images-when-signing-t.patch # Moved temporarily to modules/pixel/driver-binaries.nix
   ];
 
