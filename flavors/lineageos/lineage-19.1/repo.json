@@ -8286,13 +8286,13 @@
     "url": "https://github.com/LineageOS/www"
   },
   "lineage/wiki": {
-    "dateTime": 1666633614,
+    "dateTime": 1666761040,
     "groups": [
       "infra"
     ],
-    "rev": "3f315f953f9d9f1be5bbf9292866eea6d6143b8b",
+    "rev": "a1df5a6b3a80e4bd9c91494ad12497fd526c8059",
     "revisionExpr": "master",
-    "sha256": "10k68r0sy107z7gxdcxv1pzx8i6s0k34qa9drk30gqv54qip2q9d",
+    "sha256": "1vgi4rlxmpmfdfqwml6a3dq0knszma6m610dfcka5axxfw650l5h",
     "url": "https://github.com/LineageOS/lineage_wiki"
   },
   "packages/apps/AudioFX": {
@@ -8891,13 +8891,13 @@
     "url": "https://github.com/LineageOS/android_packages_apps_Seedvault"
   },
   "packages/apps/Settings": {
-    "dateTime": 1664008310,
+    "dateTime": 1666775740,
     "groups": [
       "pdk-fs"
     ],
-    "rev": "36c727a1d01b27aec2de8b44615570073d00ddba",
+    "rev": "edad15170d305b51fde75a54df65e8472f6eef91",
     "revisionExpr": "refs/heads/lineage-19.1",
-    "sha256": "0qbdqcr9i9z82liks15bl1fyis6d52d4zd3qdl46b79bcgpjjc69",
+    "sha256": "1nfl18qxlgn4p8qwfb34fjaj6nb4hal1gww9x6kgspmhkkfz577c",
     "url": "https://github.com/LineageOS/android_packages_apps_Settings"
   },
   "packages/apps/SettingsIntelligence": {
@@ -11262,7 +11262,7 @@
     "url": "https://android.googlesource.com/tools/platform-compat"
   },
   "tools/repohooks": {
-    "dateTime": 1656116087,
+    "dateTime": 1666686674,
     "groups": [
       "adt-infra",
       "cts",
@@ -11272,9 +11272,9 @@
       "tools",
       "tradefed"
     ],
-    "rev": "2bb4faf742e928ecd9c4a70cc389724643a79eb5",
+    "rev": "787e6a349a829e46460352e93696ec72f28289f3",
     "revisionExpr": "master",
-    "sha256": "0vrwvgqh66f63ihzg4yql3z7p4sw8w430x4kwzdhx3snd4674b59",
+    "sha256": "0ncfqisn547i8blhyc84a867hcwravjv8msvjrkislzbay30dgvf",
     "url": "https://android.googlesource.com/platform/tools/repohooks"
   },
   "tools/security": {
