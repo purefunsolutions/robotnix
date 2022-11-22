@@ -1474,15 +1474,15 @@
     "url": "https://github.com/LineageOS/android_hardware_oneplus"
   },
   "hardware/oplus": {
-    "date": "2022-10-24T18:27:57+02:00",
+    "date": "2022-11-22T12:37:49+01:00",
     "deepClone": false,
     "deps": [],
     "fetchLFS": false,
     "fetchSubmodules": false,
     "leaveDotGit": false,
-    "path": "/nix/store/7cbanw4siajsvp2m42b4pz7ifxd2y455-android_hardware_oplus",
-    "rev": "726ba7a9bd5deb5ea2d41b4a4243e1a3962794b6",
-    "sha256": "1pjpy4fa8lj1r1gmasa0j9y5668y9qpb66cqr5fbkdp9ibl8slz6",
+    "path": "/nix/store/xp7a3g9d4kdmg76k5a8q1m57rblyy4qr-android_hardware_oplus",
+    "rev": "e1d08a1858071bda70547ea2cff39e6a4ae0b0b9",
+    "sha256": "1cp6jqlqp82m4ck9asm661fm3frc8x9a8qq28a4p5cvzhh31msyg",
     "url": "https://github.com/LineageOS/android_hardware_oplus"
   },
   "hardware/samsung": {
@@ -1798,15 +1798,15 @@
     "url": "https://github.com/LineageOS/android_kernel_oneplus_sm8150"
   },
   "kernel/oneplus/sm8250": {
-    "date": "2022-10-15T08:47:44-07:00",
+    "date": "2022-11-22T12:40:54+01:00",
     "deepClone": false,
     "deps": [],
     "fetchLFS": false,
     "fetchSubmodules": false,
     "leaveDotGit": false,
-    "path": "/nix/store/5yccdd3bw4zgwvdrvhmwprspxrwkncb0-android_kernel_oneplus_sm8250",
-    "rev": "d4d1cded76a9820ca765e86b62deed1975b3a0d1",
-    "sha256": "1dlbb9ggyak8z5g8hdlrka5z5f3jlghjan8ayqghm2iblim8hzib",
+    "path": "/nix/store/wny0aqad1wl436hyq5mpbisfby0m3kb8-android_kernel_oneplus_sm8250",
+    "rev": "1814bba1eefda50743199163ffc3032f11a04ce0",
+    "sha256": "108a9wrbbrpn0b60hp4qjaqns82kyi0xy49z2s3x5p5g89q532v7",
     "url": "https://github.com/LineageOS/android_kernel_oneplus_sm8250"
   },
   "kernel/oneplus/sm8350": {

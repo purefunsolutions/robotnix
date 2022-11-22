@@ -8256,13 +8256,13 @@
     "url": "https://github.com/LineageOS/hudson"
   },
   "lineage/mirror": {
-    "dateTime": 1668972749,
+    "dateTime": 1669122086,
     "groups": [
       "infra"
     ],
-    "rev": "120202f1f24c15fadc0d960bf92766848a0c3c09",
+    "rev": "d2454d4f3ad21af735c3adc9407a32e1b34f14f7",
     "revisionExpr": "master",
-    "sha256": "0zgr664ni7ym66dh6kms5x66vvimkqma8rx5sr7g2n0570g7qw0d",
+    "sha256": "01w8aaq20z21rkfdz087xwv11j9wn3gqmkanq45k2njh5x952hmy",
     "url": "https://github.com/LineageOS/mirror"
   },
   "lineage/scripts": {
@@ -10292,11 +10292,11 @@
     "url": "https://android.googlesource.com/platform/prebuilts/tools"
   },
   "prebuilts/tools-lineage": {
-    "dateTime": 1659929834,
+    "dateTime": 1660672877,
     "groups": [],
-    "rev": "94c16e08c6c59bb59cd86831d672cf4221c7c574",
+    "rev": "ebaef5279e9599738922c691d7824af22c6e2cb8",
     "revisionExpr": "refs/heads/lineage-19.1",
-    "sha256": "01sp0q16pi2jg8bl0qq651f1l89ajfq24j273jqij06xi6ya00k4",
+    "sha256": "02j5fdpn8vrrlgx0w8k8dsvqhf0z60jc6lg8jimlns961yv5yyix",
     "url": "https://github.com/LineageOS/android_prebuilts_tools-lineage"
   },
   "prebuilts/vndk/v28": {
