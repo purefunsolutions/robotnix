@@ -18,7 +18,7 @@ args=(
 export TMPDIR=/tmp
 
 ./update_device_metadata.py
-../../scripts/mk_repo_file.py --jobs 1 --out "${branch}/repo.json" "${args[@]}"
+../../scripts/mk_repo_file.py --jobs 4 --out "${branch}/repo.json" "${args[@]}"
 ./update_device_dirs.py --branch "$branch" oneplus_instantnoodlep
 ./update_device_dirs.py --branch "$branch" oneplus_dumpling
 
