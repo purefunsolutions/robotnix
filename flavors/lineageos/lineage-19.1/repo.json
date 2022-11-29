@@ -8256,13 +8256,13 @@
     "url": "https://github.com/LineageOS/hudson"
   },
   "lineage/mirror": {
-    "dateTime": 1669122086,
+    "dateTime": 1669208497,
     "groups": [
       "infra"
     ],
-    "rev": "d2454d4f3ad21af735c3adc9407a32e1b34f14f7",
+    "rev": "5a84d06cb63de14329dc08afc1876fdf6bc1bed0",
     "revisionExpr": "master",
-    "sha256": "01w8aaq20z21rkfdz087xwv11j9wn3gqmkanq45k2njh5x952hmy",
+    "sha256": "1psk03n4naq2v9il7wa59byi66f4bwldvd0954lf1lwckmdzz76v",
     "url": "https://github.com/LineageOS/mirror"
   },
   "lineage/scripts": {
@@ -8286,13 +8286,13 @@
     "url": "https://github.com/LineageOS/www"
   },
   "lineage/wiki": {
-    "dateTime": 1668364343,
+    "dateTime": 1669267084,
     "groups": [
       "infra"
     ],
-    "rev": "61aec1354a3b894c736aaaf09b4984d875d11a31",
+    "rev": "4a9daf1e5205b2339b9c819efc63766fa19d8763",
     "revisionExpr": "master",
-    "sha256": "1n6mxndmhlr7259xp61grydd2m2cb3n4d0njav8a9zrs6px8azrv",
+    "sha256": "04d1nlkvl0m4j0fb8wghidqvmv7pgs33xaigrwxvf4r7sw2mi18s",
     "url": "https://github.com/LineageOS/lineage_wiki"
   },
   "packages/apps/AudioFX": {
@@ -8680,13 +8680,13 @@
     "url": "https://github.com/LineageOS/android_packages_apps_FlipFlap"
   },
   "packages/apps/Gallery2": {
-    "dateTime": 1656944955,
+    "dateTime": 1666868391,
     "groups": [
       "pdk-fs"
     ],
-    "rev": "a9983149b633924fdf212c9b18271783e28c8e70",
+    "rev": "0d59f90f35abda0fe3c9a149b6d3bfc68f9eeb17",
     "revisionExpr": "refs/heads/lineage-19.1",
-    "sha256": "1w15wc92p2w3qgrin7yyb7rl2kjd9c8s1r9mk9637vh49wdcdfxb",
+    "sha256": "16a7jsbligd4mih6b15f9bpdfimrflxsxs04146x0xl3xzbcjfi8",
     "url": "https://github.com/LineageOS/android_packages_apps_Gallery2"
   },
   "packages/apps/HTMLViewer": {
@@ -11262,7 +11262,7 @@
     "url": "https://android.googlesource.com/tools/platform-compat"
   },
   "tools/repohooks": {
-    "dateTime": 1667425121,
+    "dateTime": 1669361599,
     "groups": [
       "adt-infra",
       "cts",
@@ -11272,9 +11272,9 @@
       "tools",
       "tradefed"
     ],
-    "rev": "3800a36d54030d26e9873d48cf10a70efa494bf4",
+    "rev": "c9b193c57e35d9b0d6e31a52b43eec3ca7cf1431",
     "revisionExpr": "master",
-    "sha256": "0cb7pzgnf6cx3yciqcihq03y05j4i3agjfhj7f54ymv255wzmfci",
+    "sha256": "1wm3ddh0dz7v14ynrms4nxh4v2zryhrvyc6izywjl6hj6h4bk98h",
     "url": "https://android.googlesource.com/platform/tools/repohooks"
   },
   "tools/security": {
