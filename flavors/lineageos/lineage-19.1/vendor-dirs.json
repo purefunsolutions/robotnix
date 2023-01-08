@@ -77,14 +77,14 @@
     "url": "https://github.com/TheMuppets/proprietary_vendor_nubia"
   },
   "vendor/oneplus": {
-    "date": "2022-11-10T13:07:27+01:00",
+    "date": "2022-12-21T21:06:41+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "leaveDotGit": false,
-    "path": "/nix/store/vbr5y1s9q1xg9gq90p2lssb9bih58nsy-proprietary_vendor_oneplus",
-    "rev": "3d6b818c06d4d5d704b687877a521d11dc79a338",
-    "sha256": "1xalsr7r3vhi243dgikdi1m117cjl8yg63k6d04cvz8zs11vnivl",
+    "path": "/nix/store/gdkrxgm6m2ilhwh7f9v0v4s4gzskl511-proprietary_vendor_oneplus",
+    "rev": "69f28c45a5e4485d343a268537a65efe00f3551e",
+    "sha256": "134k4i0r37xvql4x3igvfri4id4fs7qdx5fqdbpf2mgklyd8fw0b",
     "url": "https://github.com/TheMuppets/proprietary_vendor_oneplus"
   },
   "vendor/razer": {
