@@ -7084,14 +7084,14 @@
     "url": "https://github.com/LineageOS/android_hardware_qcom-caf_common"
   },
   "hardware/qcom-caf/msm8953/audio": {
-    "dateTime": 1655383136,
+    "dateTime": 1673111066,
     "groups": [
       "msm8953",
       "qcom"
     ],
-    "rev": "0f1bf9ff43b9723faab7935d94afc5c7d51c0c57",
+    "rev": "ee1beacc15180e31ef5ba1e535691e595b0aeefe",
     "revisionExpr": "lineage-19.1-caf-msm8953",
-    "sha256": "17q7dbyls5s5m92hwv9kvz87c3a5mcxcb54b4v1mrwdbd3jkldny",
+    "sha256": "01h69bagq35d7g90caa95lwalbzz1rm8hrbww7vm0y3nb186m3h7",
     "url": "https://github.com/LineageOS/android_hardware_qcom_audio"
   },
   "hardware/qcom-caf/msm8953/display": {
@@ -8264,13 +8264,13 @@
     "url": "https://github.com/LineageOS/hudson"
   },
   "lineage/mirror": {
-    "dateTime": 1673528495,
+    "dateTime": 1674219686,
     "groups": [
       "infra"
     ],
-    "rev": "a3ef51ef19d2e0663d16dd92d6c073aee6a0349a",
+    "rev": "aa4a2f1ef40a8f1df61523b8e1b317460fbbd117",
     "revisionExpr": "master",
-    "sha256": "0gk50fh13n8dwfqmgnj2i021warvls22nxwvxlh5nls8iwqslz61",
+    "sha256": "0amhgw11sz1wyvzpyc76wdpl1zsjq32igrsxir1x9w5iz43fbk3v",
     "url": "https://github.com/LineageOS/mirror"
   },
   "lineage/scripts": {
@@ -10389,13 +10389,13 @@
     "url": "https://android.googlesource.com/platform/system/bpfprogs"
   },
   "system/bt": {
-    "dateTime": 1670306315,
+    "dateTime": 1673111646,
     "groups": [
       "pdk"
     ],
-    "rev": "7ce8ae8cbcf83fbd1ca7eb14c0ad39a8d3f79ec8",
+    "rev": "c137a0f4bfa67f7a58b0bb83ebc876c63781eca0",
     "revisionExpr": "refs/heads/lineage-19.1",
-    "sha256": "1fdi8lw97pyis9y82fi93qm2wsjpz3rl3rirrxknkh47l0mmd1hv",
+    "sha256": "1kq3rg373kzrpc2l9j5gs1292vs6wc503q18h11rbl8ywzpxqsnm",
     "url": "https://github.com/LineageOS/android_system_bt"
   },
   "system/ca-certificates": {
@@ -11382,11 +11382,11 @@
     "url": "https://github.com/LineageOS/android_vendor_crowdin"
   },
   "vendor/lineage": {
-    "dateTime": 1673754300,
+    "dateTime": 1674169413,
     "groups": [],
-    "rev": "ab83e6b2c29761aa445abb6991b5a4a100ad62da",
+    "rev": "30b6af389eb68849d728f2fb4897b6c7701d123f",
     "revisionExpr": "refs/heads/lineage-19.1",
-    "sha256": "1b79zvgj5xk7khr8bc1jvlf4lx7wh9lhm2i2567kzidpsd1pg8sh",
+    "sha256": "0xh55s3n5z1ws8hrb2c23ihk377964nbhc01hsgr4b6xygh6dx3j",
     "url": "https://github.com/LineageOS/android_vendor_lineage"
   },
   "vendor/nxp/nfc": {
